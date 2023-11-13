@@ -1,0 +1,114 @@
+.Main-box{
+  padding: 0px;
+  margin: 0px;
+}
+.Main-box-1{
+  background-color: cadetblue; 
+}
+.Nav{
+  justify-content:space-between;
+  padding: 20px;
+  background-color: rgb(240, 253, 255);
+  /* margin: 10px; */
+  position: relative;
+  top: 20px;
+  margin-left: 21px;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+.about-btn{
+  border-style: none;
+  color: cadetblue;
+  padding-right: 70px;
+  /* width: 200px; */
+
+}
+.content-layout{
+  justify-content: space-around;
+  padding: 30px;
+  margin: 30px;
+}
+.ri-p{
+  color: cadetblue;
+  font-size: 60px;
+  padding-left: 8px;
+  padding-top: 95px ;
+
+  
+}
+.rii-p{
+  font-size: 50px;
+  margin-top: 20px;
+  display: inline-block;
+}
+.btn{
+  position: relative;;
+  left: 100px;
+  top:80px;
+  
+}
+.h1{
+  font-size: 30px;
+}
+.ot{
+  font-size: 30px;
+  padding: 30px;
+}
+
+.fl{
+  justify-content: space-around;
+  padding-bottom: 5px;
+}
+.abt{
+  text-align: center;
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 900;
+  font-size: 35px;
+  margin: 25px;
+}
+.Main-box-2{
+  background-color: whitesmoke;
+  padding-top: 40px;
+}
+.flex-abt{
+  display: inline-block;
+  justify-content: space-around;
+
+}
+.Footer{
+  justify-content:center;
+  padding: 20px;
+  background-color:cadetblue;
+  
+  margin-top: 50px;
+  position: relative;
+  bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+.acc{
+  padding-left: 10px;
+}
+
+
+.dra{
+  width: 250px;
+
+}
+
+
+
+
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+} */
+
+
